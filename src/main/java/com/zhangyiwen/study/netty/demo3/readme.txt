@@ -1,0 +1,3 @@
+### 基于netty的server-client例子 ###
+使用MessagePack包实现对象的序列化和反序列化
+使用LengthFieldBasedFrameDecoder和LengthFieldPrepender解决粘包半包问题
